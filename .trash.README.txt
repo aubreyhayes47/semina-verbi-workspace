@@ -1,0 +1,1 @@
+This folder is a temporary holding area for deprecated or merged modules. Files here are not used in the build and may be deleted after final validation.

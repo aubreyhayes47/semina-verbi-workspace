@@ -1,0 +1,12 @@
+# Commit Message Template
+
+- Reference the [Instruction Manual](docs/InstructionManual.md) for all major changes.
+- Briefly describe how this commit aligns with the project’s mission, values, and technical directives.
+- If applicable, reference a task from [docs/TASKS.md].
+
+Example:
+
+feat(production-pipeline): Add AI transparency modal
+
+- Implements modal per [Instruction Manual] section 2.3
+- Ensures clear UI and transparency for AI-generated content

@@ -1,0 +1,13 @@
+{
+  "extends": "./tsconfig.app.json",
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "jsx": "react-jsx",
+    "types": ["jest", "@testing-library/jest-dom"],
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    "module": "esnext",
+    "target": "es2020"
+  },
+  "include": ["src/**/*.test.tsx", "src/**/*.ts", "src/**/*.tsx"]
+}

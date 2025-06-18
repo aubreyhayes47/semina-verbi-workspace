@@ -1,0 +1,24 @@
+Automation Algorithm: Step-by-Step Instructions for LLM
+=========================================================
+
+1. BREAKDOWN the identified task into smaller, actionable subtasks.
+2. IMPLEMENT the task by working through each subtask in order:
+   a. For each subtask, generate or update code, tests, and documentation as needed.
+   b. Integrate changes with the existing codebase.
+3. TEST & VALIDATE the implementation:
+   a. Design all relevant programmatic tests (unit, integration, manual if needed).
+   b. Run each test and complete step c for each test immediately after running it.
+   c. Check for errors, warnings, and ensure outputs meet project standards.
+4. CHECK for consistency:
+   a. Review code and documentation for alignment with project values (Truth, Charity, Intellectual Rigor, fidelity to Catholic Church teachings).
+   b. Review the current system architecture to identify and fix potnetial gaps in the implementation and integration.
+5. UPDATE DOCUMENTATION:
+   a. Ensure all new features, modules, and changes are documented.
+   b. Update the README.md and InstructionManual.md 
+   c. Reference relevant instruction manual sections in code comments and docs.
+6. UPDATE TASKS.md
+
+
+---
+
+Usage: Follow these instructions in order, like assembly language, to ensure a consistent and value-aligned development workflow.
